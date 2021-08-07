@@ -1,5 +1,5 @@
 # AddPermsBlip
-
+Aplication created using selenium, to automate permission addition in Blip Chat.
 ## Instalation
 To run this appliction, first install the selenium
 ```
